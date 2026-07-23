@@ -25,8 +25,8 @@ Collect Amazon Alexa answers through the **Scrapeless LLM Chat Scraper** API, in
 
 Use this repo when you need a repeatable way to monitor Alexa answers for GEO and AI search visibility, compare prompts across markets, audit cited sources and recommended products, or pipe AI responses into analytics and automation workflows.
 
-- **Full documentation:** https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/
-- **Get your `x-api-token`:** https://app.scrapeless.com/passport/login?redirect=/quick-start&utm_source=github&utm_medium=repo&utm_campaign=alexa_scraper
+- [**Full documentation**] (https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [**Get your `x-api-token`**] (https://app.scrapeless.com/passport/login?redirect=/quick-start&utm_source=github&utm_medium=repo&utm_campaign=alexa_scraper)
 - **API endpoint:** `POST https://api.scrapeless.com/api/v2/scraper/execute`
 
 ## How it works
