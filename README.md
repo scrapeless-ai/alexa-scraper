@@ -21,7 +21,7 @@
   </a>
 </p>
 
-Collect Amazon Alexa answers through the **Scrapeless LLM Chat Scraper** API, including the Markdown and plain-text response, citations, source links, follow-up suggestions, and shopping product cards, without reverse-engineering the Alexa app, maintaining browsers, or building your own anti-blocking stack.
+Collect Amazon Alexa answers through the **Scrapeless AI Scraper** API, including the Markdown and plain-text response, citations, source links, follow-up suggestions, and shopping product cards, without reverse-engineering the Alexa app, maintaining browsers, or building your own anti-blocking stack.
 
 Use this repo when you need a repeatable way to monitor Alexa answers for GEO and AI search visibility, compare prompts across markets, audit cited sources and recommended products, or pipe AI responses into analytics and automation workflows.
 
@@ -188,7 +188,7 @@ Pipe Alexa answers into internal dashboards, knowledge-base QA systems, spreadsh
 
 | Benefit | What it means for your team |
 | ------- | --------------------------- |
-| One unified API | Query Alexa through the same Scrapeless LLM Chat Scraper workflow used for other AI answer engines. |
+| One unified API | Query Alexa through the same Scrapeless AI Scraper workflow used for other AI answer engines. |
 | Structured output | Receive Markdown and plain-text answers, citations, source links, follow-up suggestions, and shopping product cards in a developer-friendly response. |
 | Less maintenance | Avoid building browser automation, UI selectors, proxy rotation, retries, and anti-blocking logic yourself. |
 | Region-aware analysis | Use country inputs to compare localized AI answers and source citations. |
@@ -198,7 +198,7 @@ Pipe Alexa answers into internal dashboards, knowledge-base QA systems, spreadsh
 
 ### What is Alexa Scraper?
 
-Alexa Scraper is a Scrapeless LLM Chat Scraper actor that sends prompts to Amazon Alexa and returns structured answer data, including the Markdown and plain-text response, citations, source links, follow-up suggestions, and product cards.
+Alexa Scraper is a Scrapeless AI Scraper actor that sends prompts to Amazon Alexa and returns structured answer data, including the Markdown and plain-text response, citations, source links, follow-up suggestions, and product cards.
 
 ### Do I need to run a browser or proxy pool?
 
@@ -222,8 +222,8 @@ Make sure your use case complies with applicable laws, platform terms, privacy r
 
 ## Learn more
 
-- [Scrapeless LLM Chat Scraper documentation](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
-- [Supported LLM Chat Scraper actors](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [Scrapeless AI Scraper documentation](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
+- [Supported AI Scraper actors](https://docs.scrapeless.com/en/llm-chat-scraper/quickstart/introduction/)
 - [Scrapeless dashboard](https://app.scrapeless.com/passport/login?redirect=/quick-start&utm_source=github&utm_medium=repo&utm_campaign=alexa_scraper)
 - [Scrapeless website](https://www.scrapeless.com/en/?utm_source=github&utm_medium=repo&utm_campaign=alexa_scraper)
 
